@@ -1,0 +1,35 @@
+Things To Do
+---
+
+- build a basic platformer
+	-add the character sprite
+		-just use naive animations for now.
+	-add the controls [twoway should be enough]
+		-make sure the map is working and that I can jump onto things.
+- move code into proper files, before our code gets too deep
+- allow a json map to be loaded using the load function in crafty as an asset.
+- build a crafty component for having metroid style maps
+	- it has to be able to dynamically change
+- get the platformer working with my new component
+- add part of game where new levels are gradually being added
+	- base it around a percentage of the town that has been eaten.
+	- have levels be filled in gradually, and the user can visit it, if the entrance is available, the tiles that don't exist yet will be sky and clouds (backdrop)???
+- add cloning machines
+- add sound for cloning
+- solve animation problem
+- add more scenes.
+	- opening menu
+	- pause menu
+	- ending scene
+- add saving and loading
+	- saving through pause menu [and auto-save]
+	- loading through opening menu
+**we have a full proof of concept :D**
+- add basic dumb enemies
+- add the ability to die
+- add more advanced enemies
+- add a gun
+- add lots of sound effects and ambient sounds
+- add music
+- add permenant powerups
+- add bosses
